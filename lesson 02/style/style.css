@@ -37,7 +37,7 @@ a[href="https://en.wikipedia.org/wiki/Amazon_(company)"]{
     border: 2px solid greenyellow;
     padding-left: 10px;
     padding-right: 10px;
-    margin: auto;
+    margin: 0 auto;
     margin-bottom: 30px;
 }
 
@@ -45,7 +45,7 @@ a[href="https://en.wikipedia.org/wiki/Amazon_(company)"]{
     width: 300px;
     border: 2px solid orange;
     padding: 10px;
-    margin: auto;
+    margin: 0 auto;
     
 }
 
@@ -53,6 +53,6 @@ a[href="https://en.wikipedia.org/wiki/Amazon_(company)"]{
     width: 300px;
     border: 2px solid blueviolet;
     padding: 10px;
-    margin: auto;
+    margin:  0 auto;
     margin-top: 30px;
 }
