@@ -1,0 +1,201 @@
+html, body{
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.flex-container {
+    /* display: inline-flex; */
+    width: 1522px ;
+    }
+
+.header {
+    display: inline-block;
+    width: 183px;
+    /* margin-top: 16px; */
+    margin-left: 12px;
+    padding-right: 651px;
+    font-weight: 600;
+}  
+
+.main {
+    display: inline-block;
+    width: 556px;
+    /* text-align: right; */
+    font-weight: 500;
+}
+
+.main a{
+    padding-left: 24px;
+    color: black;
+    text-decoration: none;
+
+}
+
+#buy {
+    margin-left: 32px;
+    
+    border:1px solid #2203E4;
+    text-align: center;
+    padding: 8px 12px;
+    /* width: 150px; */
+    background: none;
+    color: #2203E4;
+    font-weight: 500;
+
+}
+
+.center {
+    display: flex;
+}
+.left_block {
+    width: 611px;
+    margin-left: 216px;
+    margin-right: 58px;
+    margin-top: 362px; 
+
+}
+
+.right_block{
+    margin-top: 215.05px;
+    
+}
+.left_block h1{
+    font-weight: 700;
+    margin-bottom:  24px;
+}
+
+.left_block span {
+    font-weight: 400;
+}
+
+#Authors{
+    margin-right: 24px;
+    margin-top: 24px;
+    padding: 10px 16px;
+    background-color: #0062FF;
+    font-weight: 400; 
+    color: white;
+    border:1px solid #0062FF;
+    text-align: center;
+
+
+}
+
+
+#check{
+    padding: 10px 16px;
+    background-color: white;
+    font-weight: 400; 
+    color:  #575757;
+    border:1px solid #575757;
+    text-align: center;
+
+}
+/* Не могу сделать паддинг в 12px */
+#center1{ 
+    margin-left: 420.5px;
+    width: 611px;
+    text-align: center;
+    font-weight: 400;
+    padding-top: 118.81px;
+    font-size: 16px;
+  
+}
+
+
+.conteiner{
+    display: flex;
+}
+
+.face{
+    width: 150px;
+    height: 150px;
+    border: none;
+    background-color: none;
+    border-radius: 100px;
+    padding-left: 131px;
+    padding-top: 78.5px;  
+    padding-right: 46px;
+    /* overflow: hidden; */
+
+}
+
+.name {
+    width: 641px;
+
+}
+
+.conteiner .name h3{
+    font-weight: 600;
+    font-size: 27px;
+     /* padding-top: 10%; */
+    padding-top: 36px;
+    margin: 0 auto;
+
+}
+
+.conteiner .name h4{
+    color: #575757;
+    font-weight: 500;
+    padding-bottom: 12px;
+    /* font-size: 21px; */
+    margin: 0 auto;
+}
+
+.conteiner .name span{
+    color: #575757;
+    font-weight: 400;
+    /* padding-bottom: 48.5px; */
+    /* font-size: 16px; */
+}
+
+.name_job {
+    width: 205px;
+    padding-left: 128px;
+    padding-top: 43px;
+}
+
+#top{
+    color: #DEA405;
+    font-weight: 500;
+    margin: 0 auto ;
+    /* font-size: 21px; */
+}
+
+#prog{
+    color: #FFBE0B;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+#name0{
+    padding-top: 8px;
+    font-weight: 600;
+    font-size: 27px;
+    margin: 0 auto ;
+}
+
+#Graphic{
+    color: #575757;
+    /* font-size: 21px; */
+    margin: 0 auto ;
+}
+
+#name1{
+    color: #DEA405;
+    font-weight: 500;
+    margin: 0 auto ;
+    padding-top: 8px;
+    
+}
+
+#Analyst {
+    color: #FFBE0B;
+    font-weight: 400;
+    
+
+}
+
+
+
+

@@ -40,7 +40,7 @@ span {
 .container{
     width: 800px;
     border: 1px solid white;
-    margin: 0 auto;
+    /* margin: 0 auto; */
 }
 .logo {
     display: inline-block;
