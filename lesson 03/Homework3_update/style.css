@@ -349,6 +349,18 @@ span{
     padding-bottom: 12px;
 
 }
+
+.stars h4{
+    font-weight: 500;
+    font-size: 21px;
+    margin: 0 auto;
+    padding-bottom: 16px;
+}
+
+.stars h3{
+    font-weight: 600;
+    font-size: 27px;
+}
 .white_block{
     display: flex;
     width: 702px;
@@ -361,7 +373,7 @@ span{
 
 #vector{
 
-   margin-top: 123px;
+   margin-top: 94.5px;
    margin-left: 16px;
    margin-bottom: 94.5px;
 }
@@ -437,6 +449,8 @@ footer {
 
 ::placeholder{
     color: #2203E4;
+    font-weight: 400;
+    font-size: 16px;
 }
 
 .cart2{
