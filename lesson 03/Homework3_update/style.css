@@ -22,12 +22,14 @@ html, body{
     width: 556px;
     /* text-align: right; */
     font-weight: 500;
+    /* font-size: 21px; */
 }
 
 .main a{
     padding-left: 24px;
     color: black;
     text-decoration: none;
+    /* font-size: 21px; */
 
 }
 
@@ -128,7 +130,6 @@ html, body{
 .conteiner .name h3{
     font-weight: 600;
     font-size: 27px;
-     /* padding-top: 10%; */
     padding-top: 36px;
     margin: 0 auto;
 
@@ -201,9 +202,251 @@ html, body{
 
 .network {
     margin-top: 25.56px;
+    margin-bottom: 115px;
     
 }
 
 .network1 a {
     padding-right: 19px;
+}
+
+section{
+    background-color:  #0062FF;
+    width: 1522px ;
+
+}
+
+.for {
+    
+    color: #FFFFFF;
+
+}
+.head {
+    text-align: center;
+    padding-top: 71px;
+    padding-bottom: 64px;
+
+
+}
+
+.text_cart_top{
+    display: flex;
+    margin-left: 123.5px;
+}
+
+.text_cart_bottom{
+    display: flex;
+    margin-left: 123.5px;
+}
+
+.students{
+    display: flex;
+}
+
+.freelaners {
+    display: flex;
+    padding-left: 48px;
+}
+
+.agency {
+    display: flex;
+
+}
+
+.marketers {
+    display: flex;
+    padding-left: 48px;
+}
+
+h3{
+    font-weight: 600;
+    font-size: 27px;
+    
+}
+
+span{
+    font-weight: 400;
+    font-size: 16px;
+    text-align: left;
+    color: #575757;
+
+}
+
+.who {
+    font-weight: 600;
+    font-size: 36px;
+    margin: 0 auto;
+    padding-bottom: 16px;
+}
+
+#photo_students {
+    margin-right: 34px;
+    margin-bottom: 46px;
+}
+
+.button {
+    text-align: center;
+    margin: 0 auto;
+    padding-bottom: 71px;
+    padding-top: 64px;
+}
+
+#butt {
+    padding: 10px 16px;
+    color:  #2203E4;
+    
+}
+
+#center2{ 
+    width: 1522px ;
+    text-align: center;
+    padding-top: 63px;
+    
+}
+#center2 h2{
+    font-weight: 600;
+    font-size: 36px; 
+}
+
+.section {
+    display: flex;
+    margin-top: 44px;
+}
+.left_section{
+    margin-left: 205px;
+    padding-right: 48px;
+    text-align: center ;
+
+}
+
+#text_1 h4  {
+    font-weight: 500;
+    font-size: 21px;
+    
+}
+
+#text_1 span{
+    font-weight: 400;
+    font-size: 16px; 
+}
+
+.yellow_block {
+    width: 1522px ;
+    background-color: #FFBE0B;
+    text-align: center;
+    margin-top: 141.5px;
+    padding-bottom: 67px;
+}
+
+.yellow_block #center2 {
+    padding-top: 67px ;
+    margin-bottom: 42px;
+
+}
+
+.yellow_block #center2  h2{
+    margin: 0 auto;
+    padding-bottom: 12px;
+
+}
+.white_block{
+    display: flex;
+    width: 702px;
+    background-color: white;
+    margin: 0 auto;
+    text-align: left;
+    border-radius: 12px;
+   
+}
+
+#vector{
+
+   margin-top: 123px;
+   margin-left: 16px;
+   margin-bottom: 94.5px;
+}
+/*  вопрос па марджинам */
+.stars{
+    margin-left: 12px;
+    margin: 0 auto;
+    padding-top: 59.5px;
+    /* margin-bottom: 59.5px; */
+}
+.stars h3 {
+    margin: 0 auto;
+    padding: 0%;
+    
+}
+
+.bottom {
+    display: flex;
+    margin-left: 280px;
+    padding-top: 74px;
+}
+
+.cart {
+    padding-top: 73px;
+}
+
+.product_title{
+    color: #2203E4;
+    font-weight: 600;
+    font-size: 36px;
+    margin: 0 auto;
+    padding-top: 16px;
+    padding-bottom: 16px;
+
+}
+
+.text_title {
+    padding-bottom: 16px;
+}
+.cart1 {
+  
+    margin-top: 16px;
+    padding: 10px 16px;
+    background-color:#0062FF;
+    font-weight: 400; 
+    color: white;
+    border:1px solid #0062FF;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    width: 1522px ;
+}
+
+#discount {
+    font-weight: 600;
+    font-size: 27px;
+}
+
+.field {
+    background: rgba(58, 134, 255, 0.2);  
+    padding: 24px;
+    width: 508px;
+    margin-top: o auto;
+    border-radius: 12px;
+    border:0
+}
+
+.cart2 {
+    margin-top: 14px ;
+}
+
+::placeholder{
+    color: #2203E4;
+}
+
+.cart2{
+    background-color: #0062FF;
+    width: 562px;
+    padding: 10px;
+    color: white;
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 103px;
+    border:0;
+
 }
