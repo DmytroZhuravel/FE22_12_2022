@@ -5,7 +5,7 @@ html, body{
 
 .flex-container {
     /* display: inline-flex; */
-    width: 1522px ;
+    width: 1430px ;
     }
 
 .header {
@@ -212,7 +212,7 @@ html, body{
 
 section{
     background-color:  #0062FF;
-    width: 1522px ;
+    width: 1430px ;
 
 }
 
@@ -298,7 +298,7 @@ span{
 }
 
 #center2{ 
-    width: 1522px ;
+    width: 1430px ;
     text-align: center;
     padding-top: 63px;
     
@@ -331,7 +331,7 @@ span{
 }
 
 .yellow_block {
-    width: 1522px ;
+    width: 1430px ;
     background-color: #FFBE0B;
     text-align: center;
     margin-top: 141.5px;
@@ -426,7 +426,7 @@ span{
 
 footer {
     text-align: center;
-    width: 1522px ;
+    width: 1430px ;
 }
 
 #discount {
