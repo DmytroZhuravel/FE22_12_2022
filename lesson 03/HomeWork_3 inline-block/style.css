@@ -25,6 +25,7 @@ nav {
 .head,
 nav {
     width: 740px;
+   
 }
 
 .logo {
@@ -69,9 +70,10 @@ nav button {
 
 .center {
     width: 1269px;
-    margin-left: 216px;
+   padding-left: 216px;
     padding-top: 91px;
-    /* margin: 0 auto; */
+    margin: 0 auto;
+  
     
 }
 
@@ -80,8 +82,6 @@ nav button {
     width: 631px;
     vertical-align: top;
     padding-top: 120px;
-
-    
     
 }
 
@@ -116,7 +116,7 @@ nav button {
 }
 
 #center1{ 
-    margin-left: 420.5px;
+    margin: 0 auto;
     width: 611px;
     text-align: center;
     font-weight: 400;
@@ -125,11 +125,11 @@ nav button {
 }
 
 .authors {
-font-family: Poppins;
-font-size: 36px;
-font-weight: 600;
-line-height: 43px;
-letter-spacing: 0em;
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 43px;
+    letter-spacing: 0em;
 
 }
 
@@ -140,7 +140,9 @@ letter-spacing: 0em;
 
 /* ////// */
 
-
+.conteiner3 {
+    margin: 0 auto;
+}
 
 .face{
     display: inline-block;
@@ -152,6 +154,7 @@ letter-spacing: 0em;
     padding-left: 131px;
     padding-top: 48.5px;  
     padding-right: 46px;
+    margin: 0 auto;
    
 
 }
@@ -159,40 +162,17 @@ letter-spacing: 0em;
 .name {
     display: inline-block;
     width: 641px;
-
-}
-
-.conteiner .name h3{
-    font-weight: 600;
-    font-size: 27px;
-    padding-top: 36px;
     margin: 0 auto;
 
 }
 
-.conteiner .name h4{
-    color: #575757;
-    font-weight: 500;
-    padding-bottom: 12px;
-    /* font-size: 21px; */
-    margin: 0 auto;
-}
-
-.conteiner .name span{
-    color: #575757;
-    font-weight: 400;
-    /* padding-bottom: 48.5px; */
-    /* font-size: 16px; */
-}
-
-/* .network {
-    display: flex;
-} */
 .name_job {
     display: inline-block;
     width: 205px;
     padding-left: 128px;
     padding-top: 43px;
+    margin: 0 auto;
+    vertical-align: top;
 }
 
 #top{
@@ -257,15 +237,16 @@ section{
 
 .for {
     width: 1269px;
-    margin-left: 123px;
     padding-top:  71px;
     color: #FFFFFF;
+    margin: 0 auto;
 
 }
 
 .head1 {
     text-align: center;
     padding-bottom: 64px;
+   
    
 }
 
@@ -280,7 +261,6 @@ section{
 #students_text {
     display: inline-block;
     width: 451px;
-    /* vertical-align: top; */
     
 }
 
@@ -312,22 +292,22 @@ section{
 }
 
 .who {
-font-family: Poppins;
-font-size: 36px;
-font-weight: 600;
-line-height: 43px;
-letter-spacing: 0em;
-text-align: center;
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 43px;
+    letter-spacing: 0em;
+    text-align: center;
 
 }
 
 #students_text h3 {
-font-family: Poppins;
-font-size: 27px;
-font-weight: 600;
-line-height: 32px;
-letter-spacing: 0em;
-vertical-align: top;
+    font-family: Poppins;
+    font-size: 27px;
+    font-weight: 600;
+    line-height: 32px;
+    letter-spacing: 0em;
+    vertical-align: top;
 
 }
 /* ////// */
@@ -344,10 +324,6 @@ vertical-align: top;
 }
 
 /* //// */
-
-.section {
-
-}
 
 .left_section{
     display: inline-block;
@@ -375,7 +351,6 @@ vertical-align: top;
 
 .right_section{
     width: 444px;
-    height: 296px;
     display: inline-block;
     vertical-align: top;
     padding-top: 44px;
@@ -433,12 +408,12 @@ vertical-align: top;
 }
 
 #vector{
- display: inline-block;
- vertical-align: top;
- margin-top: 94.5px;
- margin-left: 16px;
- margin-bottom: 94.5px;
- margin-right: 12px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 94.5px;
+    margin-left: 16px;
+    margin-bottom: 94.5px;
+    margin-right: 12px;
 }
 
 
@@ -447,12 +422,14 @@ vertical-align: top;
 .block_iphone2 {
     width: 1487px;
     padding-bottom: 97px;
+    margin: 0 auto;
 }
 .bottom {
    display: inline-block;
     padding-top: 74px;
     text-align: right;
     width: 611px;
+    margin: 0 auto;
    
 }
 
@@ -462,6 +439,7 @@ vertical-align: top;
     padding-top: 150px;
     width: 611px;
     text-align: left;
+    margin: 0 auto;
     
 }
 
@@ -495,10 +473,10 @@ footer {
 }
 
 .discount {
-font-size: 27px;
-font-weight: 600;
-line-height: 32px;
-letter-spacing: 0em;
+    font-size: 27px;
+    font-weight: 600;
+    line-height: 32px;
+    letter-spacing: 0em;
 
 
 }
