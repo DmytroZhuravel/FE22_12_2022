@@ -5,7 +5,7 @@ html, body{
 
 .conteiner {
     width: 1487px;
-    
+    margin: 0 auto;
 
 }
 
@@ -140,8 +140,11 @@ nav button {
 
 /* ////// */
 
+
 .conteiner3 {
     margin: 0 auto;
+    width: 1469px;
+    padding-bottom: 144px;
 }
 
 .face{
@@ -218,8 +221,8 @@ nav button {
 
 .network {
     margin-top: 25.56px;
-    margin-bottom: 115px;
-    
+    margin-bottom: 115px; 
+    margin: 0 auto;
 }
 
 .network1 a {
@@ -231,7 +234,7 @@ nav button {
 
 section{
     background-color:  #0062FF;
-    width: 1509px ;
+    margin: 0 auto;
 
 }
 
@@ -313,7 +316,7 @@ section{
 /* ////// */
 
 #center2{ 
-    width: 1487px ;
+    margin: 0 auto;
     text-align: center;
     padding-top: 63px;
     
@@ -324,10 +327,14 @@ section{
 }
 
 /* //// */
-
+.section {
+    margin: 0 auto;
+    text-align: center;
+   
+}
 .left_section{
     display: inline-block;
-    margin-left: 205px;
+    /* margin-left: 205px; */
     padding-right: 48px;
     padding-top: 44px;
     text-align: center ;
@@ -350,7 +357,7 @@ section{
 }
 
 .right_section{
-    width: 444px;
+    /* width: 444px; */
     display: inline-block;
     vertical-align: top;
     padding-top: 44px;
@@ -360,7 +367,7 @@ section{
 /* /////// */
 
 .yellow_block {
-    width: 1509px ;
+    margin: 0 auto;
     background-color: #FFBE0B;
     text-align: center;
     margin-top: 141.5px;
@@ -420,16 +427,16 @@ section{
 /* /////// */
 
 .block_iphone2 {
-    width: 1487px;
+    
     padding-bottom: 97px;
     margin: 0 auto;
+    width: 951px;
 }
 .bottom {
    display: inline-block;
     padding-top: 74px;
     text-align: right;
-    width: 611px;
-    margin: 0 auto;
+    
    
 }
 
@@ -468,8 +475,8 @@ section{
 }
 
 footer {
+    margin: 0 auto;
     text-align: center;
-    width: 1469px ;
 }
 
 .discount {
@@ -477,6 +484,7 @@ footer {
     font-weight: 600;
     line-height: 32px;
     letter-spacing: 0em;
+  
 
 
 }
