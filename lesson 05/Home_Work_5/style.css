@@ -9,9 +9,7 @@
   }
 
   .conteiner {
-    width: 100%;
-    margin: 0 auto;
-
+    margin: o auto;
 
 }
 .top_block {
@@ -81,7 +79,6 @@
     width: 444px;
     left: 34px;
     top: 34px;
-    border-radius: 0px;
     z-index: 3;
     
 }
