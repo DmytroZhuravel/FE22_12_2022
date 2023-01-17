@@ -51,6 +51,7 @@
 
 }
 
+
 .glyph1 {
     width: 400px;
     height: 227px;
@@ -68,6 +69,8 @@
     position: relative;
     top: -212px;
     left: 864px;
+    border-top: 2px solid blue;
+    border-bottom: 2px solid blue;
   
 }
 
