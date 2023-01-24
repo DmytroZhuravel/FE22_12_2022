@@ -64,10 +64,11 @@ h1::before{
 }
 
 .simple-background {
-    width: 480px;
+    width: 50%px;
     height: 480px;
     background-color: yellow;
     background-image: url("img/avatar.png");
+    background-repeat: no-repeat;
 }
 
 .double-bg {
@@ -101,3 +102,4 @@ h1::before{
 
 
 }
+
