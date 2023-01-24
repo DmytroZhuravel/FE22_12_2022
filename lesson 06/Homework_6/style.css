@@ -568,5 +568,6 @@ i{
   position: fixed;
   margin-left: 78px;
   top: 359px;
+  z-index: 3;
 
 }
