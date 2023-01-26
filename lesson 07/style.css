@@ -1,0 +1,10 @@
+.block {
+    padding: 20px;
+    background-color: blanchedalmond;
+    margin-bottom: 50px;
+}
+
+.i-flex {
+    display: inline-flex;
+}
+
