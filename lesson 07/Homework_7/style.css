@@ -206,6 +206,7 @@ text-align: left;
 
 .btn:hover {
   background-color: #C98D5A;
+  border: none;
 
 }
 
