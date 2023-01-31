@@ -218,10 +218,9 @@ text-align: left;
 
 }
 
-.blk-picture, .blk-picture2, .blk-picture3 {
+.blk-picture {
   width: 307px;
   color:  #C4C4C4;
-  border: 1px solid wheat;
   text-align: center;
   background-color:#1F1F1F;
   border-radius: 30px;
