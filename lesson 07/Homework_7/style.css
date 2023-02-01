@@ -219,24 +219,33 @@ text-align: left;
 }
 
 .blk-picture {
+  display: flex;
+  flex-direction: column;
   width: 307px;
   color:  #C4C4C4;
   text-align: center;
   background-color:#1F1F1F;
   border-radius: 30px;
-  justify-content: space-between;
-
+  justify-content:space-between;
+  align-items:center; 
+ padding-bottom: 17px;
 }
 
 #price {
   background-color: #F59B4D;
   color: black;
   margin-left: 130px;
+ 
   
+}
+.price_arrow {
+  display: flex;
+
 }
 
 .summary {
   text-transform: capitalize;
+ 
 }
 
 .bottom_blk{
@@ -283,6 +292,9 @@ text-align: left;
 
 .img_1 {
   width: 302px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
 }
 
 .footer {

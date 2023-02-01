@@ -1,0 +1,100 @@
+*{
+    box-sizing: border-box;
+   
+}
+.d-flex {
+    display: flex;
+}
+.wrapper {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.left-text, .right-text {
+    width: 100%;
+    padding: 50px;
+}
+
+.left-text {
+    background-color: yellow;
+    /* font-size: 30px; */
+}
+
+.right-text{
+    background-color: blue;
+    /* font-size: 14px; */
+
+}
+/* max-width -менше цього значення
+min-width -больше цього значення */
+
+/* @media(max-width:1600px){
+    .responsive {
+        flex-direction: column;
+
+    }
+
+}
+
+@media(max-width:1000px){
+    .responsive {
+        flex-direction: column-reverse;
+
+    }
+    .left-text {font-size: 10px;}
+
+} */
+
+body,html {
+    font-size: 20px;
+}
+.em{
+    font-size: 2em;
+}
+
+@media(max-width:1200px) {
+    body,html {
+    font-size: 10px;
+}
+
+}
+
+.background-full  {
+    width: 50vw;
+    height: 100vw;
+    padding: 20px;
+
+}
+
+.green {
+    background-color: green;
+}
+
+.gray {
+    background-color: grey;
+}
+
+:root {
+    --main-color:red;
+    --title-font-size:40px;
+
+}
+
+h1{
+    color: var(--main-color);
+    font-size: var(--title-font-size);
+}
+
+h3{
+    --main-color: green;
+    color: var(--main-color);
+
+}
+
+@media(max-width:1000px) {
+    :root {
+        --main-color:green;
+        --title-font-size:40px;
+
+    }
+}
