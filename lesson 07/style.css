@@ -31,9 +31,9 @@ body{
     /* justify-content: space-around; */
     align-items:flex-end;
     /* align-items: center; */
-    gap: 10px 100px;
-    /* row-gap: 40px;
-    column-gap: 100px; */
+    /* gap: 10px 100px; */
+    row-gap: 40px;
+    /* column-gap: 100px; */
 
 }
 

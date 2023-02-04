@@ -231,11 +231,11 @@ text-align: left;
  padding-bottom: 17px;
 }
 
+
 #price {
   background-color: #F59B4D;
   color: black;
   margin-left: 130px;
- 
   
 }
 .price_arrow {
@@ -266,8 +266,6 @@ text-align: left;
 
 #text_bottom{
   text-align: end;
-  float: right;
-  
 }
 
 .footer_blk{
