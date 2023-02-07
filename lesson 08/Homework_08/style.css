@@ -103,12 +103,16 @@ header{
     display: flex;
     justify-content: space-between;
     margin-bottom: 39px;
+    border: 1px solid black;
 }
 
 .section {
     width: 58.75%;
     margin: 0 auto;
     text-align: center;
+    border: 1px solid green;
+
+  
 }
 
 .center-menu 
@@ -119,8 +123,8 @@ header{
     position: relative;
     border-radius: 50%;
     overflow: hidden;
-    width: 350px;
-    height: 350px;
+    min-width: 350px;
+    margin: 0 auto;
  }
 
 .transparent-blk {
