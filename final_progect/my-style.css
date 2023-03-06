@@ -1,0 +1,237 @@
+.bg-color {
+    background-color: #F4ECE8 ;
+}
+
+.top_blk  {
+    background-image: url(img/Image.png) ;
+    height: 584px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+ 
+
+}
+
+.text {
+    height: 584px;
+    display: flex;
+    align-items: flex-end;
+    color: white;
+
+}
+
+.conteiner {
+    width: 1260px;
+    border: 1px solid red;
+    margin: 0 auto;
+  
+}
+
+.content_blk {
+    background-color: white;
+    padding: 5px;
+    text-decoration: none;
+    border-radius: 4px;
+
+    
+}
+
+.blk {
+    border: 1px solid red;
+    margin: 52px 0;
+ 
+}
+
+h6{
+   color: #F39200;
+    font-family: Poppins;
+    font-size: 9px;
+    font-weight: 600;
+    line-height: 14px;
+    letter-spacing: 0.01em;
+    text-align: left;
+
+}
+
+h4 {
+color: #3D3935;
+font-family: Poppins;
+font-size: 18px;
+font-weight: 500;
+line-height: 25px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.text_blk {
+    justify-content: space-between;
+    border: 1px solid green;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 16px 19px;
+}
+
+.news {
+    height: 856px;
+
+}
+
+.header {
+    padding-top: 42px;
+}
+
+.hr {
+    color: #B5B7C3;
+}
+
+h2{
+font-family: Abhaya Libre;
+font-size: 60px;
+font-weight: 700;
+line-height: 62px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+h5{
+font-family: Poppins;
+font-size: 13px;
+font-weight: 700;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: right;
+padding-top: 23px;
+
+
+}
+
+span {
+    color: black;
+}
+
+.left_blk_img {
+    background-color: white;
+    text-align: center;
+    padding: 5px;
+    border-radius: 4px;
+    margin-right: 20px;
+    overflow: hidden;
+    
+}
+
+.left_blk_img p {
+    color:#F39200;
+    font-family: Poppins;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: center;
+    padding-top: 29px;
+
+}
+
+.left_blk_img h3{
+font-family: Abhaya Libre;
+font-size: 40px;
+font-weight: 700;
+line-height: 46px;
+letter-spacing: 0em;
+text-align: center;
+padding: 0 70px;
+
+}
+
+button {
+    border-radius: 4px;
+    width: 96%;
+    border: 1px solid #3D3D3C;
+    background-color: white;
+    font-family: Poppins;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: center;
+    padding: 11px 0;
+    margin-bottom: 16px;
+}
+
+.right_blk_top, .right_blk_bottom {
+    background-color: white;
+    padding: 5px;
+    border-radius: 4px;
+   
+
+}
+
+ .right_blk img {
+ width: 94%;
+}
+
+.right_blk_top {
+    margin-bottom: 17px;
+}
+
+.right-text p {
+    color: #F39200;
+    font-family: Poppins;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+}
+.right-text h4 {
+    color:#3D3935;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+}
+
+.right-text h5 {
+    color:#3D3935;
+    font-family: Noto Serif;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-bottom: 74px;
+    
+}
+.right-text button{
+    margin-top: 35px;
+}
+
+.news {
+    margin-bottom: 82px;
+}
+
+.small-header {
+    width: 1046px;
+    border: 1px solid green;
+    margin: 0 auto;
+    margin-top: 77px;
+    
+}
+
+.small-header h2{
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 33px;
+    letter-spacing: 0em;
+    text-align: left;
+}
