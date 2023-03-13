@@ -67,7 +67,7 @@ text-align: left;
 
 .text_blk {
     justify-content: space-between;
-    border: 1px solid green;
+   
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -120,10 +120,11 @@ span {
     border-radius: 4px;
     margin-right: 20px;
     overflow: hidden;
+
     
 }
 
-.left_blk_img p {
+.left_blk_img p{
     color:#F39200;
     font-family: Poppins;
     font-size: 13px;
@@ -149,7 +150,7 @@ padding: 0 70px;
 button {
     border-radius: 4px;
     width: 96%;
-    border: 1px solid #3D3D3C;
+    border: 1.5px solid #3D3D3C;
     background-color: white;
     font-family: Poppins;
     font-size: 13px;
@@ -221,7 +222,9 @@ button {
 
 .small-header {
     width: 1046px;
-    border: 1px solid green;
+    margin-bottom: 35px;
+
+    padding-bottom: 35px;
     margin: 0 auto;
     margin-top: 77px;
     
@@ -235,3 +238,122 @@ button {
     letter-spacing: 0em;
     text-align: left;
 }
+
+.mondi_item {
+    text-align: center;
+    position:relative;
+    top:-61px;
+    padding-bottom: 145px;
+   
+}
+
+.text_item {
+    padding-top: 16px;
+    width: 100%;
+    height: 136px;
+    position: relative;
+    bottom: -126px;
+    padding: 70px 5px;
+}
+
+.mondi_item img {
+    position: absolute;
+    top: 43px;
+    left: 50%;
+    z-index: 2;
+    transform: translateX(-50%);
+}
+
+/* tutorial */
+.tutorial{
+    padding: 76px 0 104px 0;
+    margin-top: 92px;
+    margin-bottom: 88px;
+}
+.tutorial_img{
+    padding: 5px;
+    border-radius: 4px;
+    margin-top: 30px;
+}
+.tutorial_img img{
+    width: 100%;
+    border-radius: 2px 2px 0px 0px;
+
+}
+.tutorial-item-text{
+    flex-direction: column;
+    padding: 19px 24px 24px 24px;
+}
+.item-title{
+    justify-content: space-between;
+    font-size: 13px;
+    font-weight: 500;
+    margin-bottom: 17px;
+}
+
+.item-title p {
+    color:#F39200;
+    font-family: Poppins;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.tutorial-item-text h2{
+    padding-bottom: 67px;
+    font-family: Abhaya Libre;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.header_txt h2 {
+font-family: Poppins;
+font-size: 24px;
+font-weight: 500;
+line-height: 33px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.sponsor{
+    margin-top: 82px;
+    margin-bottom: 92px;
+}
+.sponsor-block{
+    padding: 72px 0 130px 0;
+}
+
+.sponsor h3{
+    margin: 15px 0 5px 0;
+}
+.arrow-scroll{
+    justify-content:center;
+    align-items:center;
+    width:40px;
+    height:40px;
+    margin: 100px auto 0 auto;
+}
+.sponsor-scroll-container{
+    justify-content: space-between;
+    gap: 19px;
+    padding-bottom: 5px;
+    overflow: hidden;
+}
+.sponsor-item{
+    width: 194px;
+    height: 192px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+    box-shadow: 6px 7px 9px rgba(0, 0, 0, 0.03);
+    margin-top: 23px;
+}
+
+
+
